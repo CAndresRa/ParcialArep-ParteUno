@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="043900ca-cdda-49a6-8cb5-a2c0007a8753" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/$CACHE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/model/Cos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/model/ICalculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/model/OperationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/model/Sin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/model/Tan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/escuelaing/arep/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +37,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.App" />
-      <module name="parcial" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.escuelaing.arep.*" />
@@ -69,11 +56,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -86,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599246329035</updated>
       <workItem from="1599246335840" duration="9254000" />
+      <workItem from="1599258181796" duration="395000" />
     </task>
     <servers />
   </component>
@@ -93,6 +76,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="599" y="150" key="#App" timestamp="1599258226835">
+      <screen x="0" y="23" width="2560" height="1015" />
+    </state>
+    <state x="599" y="150" key="#App/0.23.2560.1015@0.23.2560.1015" timestamp="1599258226835" />
     <state x="218" y="112" key="#Project_Structure" timestamp="1599256747942">
       <screen x="0" y="23" width="2560" height="1015" />
     </state>
