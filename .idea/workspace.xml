@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="043900ca-cdda-49a6-8cb5-a2c0007a8753" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/escuelaing/arep/client/EchoClientTrigonometric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/escuelaing/arep/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/escuelaing/arep/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EchoClientTrigonometric">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.App" />
       <extension name="coverage">
@@ -56,6 +58,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EchoClientTrigonometric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.client.EchoClientTrigonometric" />
+      <module name="ParcialArep-ParteUno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.escuelaing.arep.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EchoClientTrigonometric" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,7 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599246329035</updated>
       <workItem from="1599246335840" duration="9254000" />
-      <workItem from="1599258181796" duration="911000" />
+      <workItem from="1599258181796" duration="1044000" />
+      <workItem from="1599260796067" duration="2330000" />
     </task>
     <servers />
   </component>
@@ -88,22 +109,22 @@
       <screen x="0" y="23" width="2560" height="1015" />
     </state>
     <state x="434" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1015@0.23.2560.1015" timestamp="1599255723497" />
-    <state width="1804" height="276" key="GridCell.Tab.0.bottom" timestamp="1599259016956">
+    <state width="1763" height="275" key="GridCell.Tab.0.bottom" timestamp="1599263536874">
       <screen x="0" y="23" width="2560" height="1015" />
     </state>
-    <state width="1804" height="276" key="GridCell.Tab.0.bottom/0.23.2560.1015@0.23.2560.1015" timestamp="1599259016956" />
-    <state width="1804" height="276" key="GridCell.Tab.0.center" timestamp="1599259016955">
+    <state width="1763" height="275" key="GridCell.Tab.0.bottom/0.23.2560.1015@0.23.2560.1015" timestamp="1599263536874" />
+    <state width="1763" height="275" key="GridCell.Tab.0.center" timestamp="1599263536873">
       <screen x="0" y="23" width="2560" height="1015" />
     </state>
-    <state width="1804" height="276" key="GridCell.Tab.0.center/0.23.2560.1015@0.23.2560.1015" timestamp="1599259016955" />
-    <state width="1804" height="276" key="GridCell.Tab.0.left" timestamp="1599259016954">
+    <state width="1763" height="275" key="GridCell.Tab.0.center/0.23.2560.1015@0.23.2560.1015" timestamp="1599263536873" />
+    <state width="1763" height="275" key="GridCell.Tab.0.left" timestamp="1599263536873">
       <screen x="0" y="23" width="2560" height="1015" />
     </state>
-    <state width="1804" height="276" key="GridCell.Tab.0.left/0.23.2560.1015@0.23.2560.1015" timestamp="1599259016954" />
-    <state width="1804" height="276" key="GridCell.Tab.0.right" timestamp="1599259016955">
+    <state width="1763" height="275" key="GridCell.Tab.0.left/0.23.2560.1015@0.23.2560.1015" timestamp="1599263536873" />
+    <state width="1763" height="275" key="GridCell.Tab.0.right" timestamp="1599263536874">
       <screen x="0" y="23" width="2560" height="1015" />
     </state>
-    <state width="1804" height="276" key="GridCell.Tab.0.right/0.23.2560.1015@0.23.2560.1015" timestamp="1599259016955" />
+    <state width="1763" height="275" key="GridCell.Tab.0.right/0.23.2560.1015@0.23.2560.1015" timestamp="1599263536874" />
     <state x="218" y="112" key="SettingsEditor" timestamp="1599248457439">
       <screen x="0" y="23" width="2560" height="1015" />
     </state>

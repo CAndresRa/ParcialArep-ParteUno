@@ -20,7 +20,7 @@ public class App {
                     "  <div style=\"margin:auto\">\n" +
                     "    <h1>Parcial Andres Ramirez</h1>\n" +
                     "    <form method=\"post\" action=\"/calculate\">\n" +
-                    "      <p><b>Instructions:</b> Insert a set of  numbers separated by commas (,) and hit the 'Calculate' button.</p>\n" +
+                    "      <p><b>Instructions:</b> Insert EchoClientTrigonometric set of  numbers separated by commas (,) and hit the 'Calculate' button.</p>\n" +
                     "      <p><b>Example:</b> 1.0 or 1</p>\n" +
                     "      <input type=\"number\" required=\"true\" name=\"number\"/>\n" +
                     "      <p><b>Example:</b> tan or  cos or sin</p>\n" +
@@ -51,7 +51,7 @@ public class App {
                         "  <div style=\"margin:auto\">\n" +
                         "    <h1>Parcial Andres Ramirez</h1>\n" +
                         "    <form method=\"post\" action=\"/calculate\">\n" +
-                        "      <p><b>Instructions:</b> Insert a set of  numbers separated by commas (,) and hit the 'Calculate' button.</p>\n" +
+                        "      <p><b>Instructions:</b> Insert EchoClientTrigonometric set of  numbers separated by commas (,) and hit the 'Calculate' button.</p>\n" +
                         "      <p><b>Example:</b> 1.0 or 1 ...</p>\n" +
                         "      <input type=\"number\" required=\"true\" name=\"number\"/>\n" +
                         "      <p><b>Example:</b> tan or  cos or sin</p>\n" +
