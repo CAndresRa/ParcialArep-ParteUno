@@ -21,7 +21,7 @@ public class App {
                     "    <h1>List App</h1>\n" +
                     "    <form method=\"post\" action=\"/calculate\">\n" +
                     "      <p><b>Instructions:</b> Insert a set of  numbers separated by commas (,) and hit the 'Calculate' button.</p>\n" +
-                    "      <p><b>Example:</b> 1, 2, 3, ...</p>\n" +
+                    "      <p><b>Example:</b> 1.0 or 1</p>\n" +
                     "      <input type=\"number\" required=\"true\" name=\"number\"/>\n" +
                     "      <p><b>Example:</b> tan or  cos or sin</p>\n" +
                     "      <input type=\"text\" required=\"true\" name=\"operation\"/>\n" +
@@ -52,7 +52,7 @@ public class App {
                         "    <h1>List App</h1>\n" +
                         "    <form method=\"post\" action=\"/calculate\">\n" +
                         "      <p><b>Instructions:</b> Insert a set of  numbers separated by commas (,) and hit the 'Calculate' button.</p>\n" +
-                        "      <p><b>Example:</b> 1, 2, 3, ...</p>\n" +
+                        "      <p><b>Example:</b> 1.0 or 1 ...</p>\n" +
                         "      <input type=\"number\" required=\"true\" name=\"number\"/>\n" +
                         "      <p><b>Example:</b> tan or  cos or sin</p>\n" +
                         "      <input type=\"text\" required=\"true\" name=\"operation\"/>\n" +
